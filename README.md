@@ -1,5 +1,5 @@
 # todo
-<a href="https://quirky-fermat-e31734.netlify.app/">Vue-Todo</a>
+Demo <a href="https://quirky-fermat-e31734.netlify.app/" target="_blank">Vue-Todo</a>
 ## Project setup
 ```
 yarn install
